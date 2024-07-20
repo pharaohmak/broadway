@@ -12,6 +12,10 @@ li:hover {
     cursor: not-allowed;
 }
 
+ul {
+    display: flex;
+    justify-content: space-between;
+}
 header {
     background-color: #333333;
     position: fixed;
