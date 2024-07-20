@@ -1,5 +1,15 @@
 # Broadway
 
-In this project, you will use properties such as display and position to improve the layout of the landing page for a fictional design firm, Broadway Design.
+Welcome to the **Broadway** project! This project is a stylish and modern webpage designed to showcase a company's services with a clean, responsive layout.
 
-The site has some style rules to begin with. You will improve the layout and positioning of the navigation menu at the top of the page and the three supporting sections (Design, Develop, Deploy) below the image.
+## Project Overview
+
+The Broadway webpage is a sleek landing page that highlights three main areas of focus: Design, Development, and Deployment. It includes a navigation menu, a jumbotron section for a call-to-action, and a footer with copyright information.
+
+## Features
+
+- **Responsive Design:** The layout adjusts to different screen sizes for a seamless experience on any device.
+- **Navigation Menu:** Provides quick access to various sections of the page.
+- **Jumbotron Section:** Features a prominent call-to-action button.
+- **Service Sections:** Highlights Design, Development, and Deployment with images and descriptions.
+- **Footer:** Displays copyright information.

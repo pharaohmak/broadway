@@ -4,6 +4,14 @@ body {
     padding: 0;
 }
 
+a {
+    cursor: not-allowed;
+}
+
+li:hover {
+    cursor: not-allowed;
+}
+
 header {
     background-color: #333333;
     position: fixed;
@@ -68,6 +76,7 @@ footer p {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    margin: 25px 0;
 }
 
 .btn-main {
